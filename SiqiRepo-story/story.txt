@@ -1,2 +1,4 @@
 # SiqiRepo-story
 Hi, this is Siqi's first repository.
+Once upon a time, there was a programmer who lived in the CS building. Her name was CC, and she loves dinosaurs. She even created a dinosaur-themed video game. The video game was extremely successfully, but all of a sudden, she got hacked!
+
