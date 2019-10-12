@@ -2,5 +2,8 @@
 Hi, this is Siqi's first repository.
 Once upon a time, there was a programmer who lived in the CS building. Her name was CC, and she loves dinosaurs. She even created a dinosaur-themed video game. The video game was extremely successfully, but all of a sudden, she got hacked!
 She didn't know where the hack was coming from. All of her files were slowly getting erased from her computer, one by one. She watched the horror enfold right before her eyes.
+
+It would be disatous for CC if this continued.
+
 She tried everything she could - she disconnected from the network, unplugged everything from her computer, even tried turning it off, but it would not stop.
 Suddenly, a hurricane came from the computer swept her into the video game! Now, CC found herself standing in the world of dinosaurs! An exciting adventure began.
